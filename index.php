@@ -186,7 +186,7 @@
 </div>
 
 <div class="col-lg-2 col-md-4 col-12">
-  <img src="images/tra6.jpg" class="img-fluid1 pb-3">
+  <img src="images/nature7.jpg" class="img-fluid1 pb-3">
 </div>
 </div>
 </div>
